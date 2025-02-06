@@ -8,4 +8,5 @@ net.core.warnings = 1
 
 to file /etc/sysctl.conf 
 then type : sysctl -p 
+
 for applying the changes
